@@ -25,6 +25,7 @@
   ],
   "proxy": "http://localhost:7071/",
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object":"^7.21.11",
     "@fortawesome/fontawesome-free": "^5.15.2",
     "axios": "^0.21.1",
     "bulma": "^0.9.4",
